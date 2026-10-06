@@ -1,0 +1,8 @@
+{
+  "name": "Remix GarmentPro V.02",
+  "description": "Aplikasi modular produksi garment untuk perhitungan konsumsi bahan baku dengan pemakaian per unit presisi 6 desimal, dimensi dan penampang bahan, multi-barang jadi, sinkronisasi Google Sheets, dan product costing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
